@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm wjrzm! 
 
-- 🔭 I’m currently working on **Mocap System with Multi-Sensor**.
-- 🌱 I’m currently learning **Multi-Sensor Fusion** and **Reinforcement Learning**.
-- 🤔 I’m looking for help with **Reinforcement Learning**.
+- 🔭 I’m currently working on **Mocap System with Kinect and IMU**.
+- 🌱 I’m currently learning **Multi-Sensor Fusion** and **Human Pose Estimation**.
+- 🤔 I’m looking for help with **SMPL Model**.
 - 💬 Ask me about **Anything** related to what I am currently learning.
-- 📫 How to reach me: shhren2001@gmail.com
+- 📫 How to reach me: renshenghao@smail.nju.edu.cn
 
 <!--
 **wjrzm/wjrzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
