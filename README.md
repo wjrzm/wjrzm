@@ -1,4 +1,4 @@
-### Hi there 👋, I'm wjrzm! 
+### Hi there 👋, I'm Shenghao Ren! 
 
 - 🔭 I’m currently working on **Mocap System with Multi-Sensor**.
 - 🌱 I’m currently learning **Multi-Sensor Fusion** and **Human Pose Estimation**.
